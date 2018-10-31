@@ -16,6 +16,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
             //adding comment
+
+            //addong this line
         }
     }
 }
